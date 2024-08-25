@@ -1,7 +1,9 @@
-## Hello 👋
+## About Me 👩‍🌾
 
 - 🔭 I’m currently working on ...
-  
+
+
+## Skills
 <!--
 **amborgw/amborgw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
