@@ -1,11 +1,16 @@
-## About Me 👩‍🌾
+## Greetings 👩‍🌾
 
-Greetings! I'm Amber, a Computer Science & Neuroscience student at UNSW 🤓
-- 🔭 I’m currently working on ...
+I'm Amber, a 3rd Year Computer Science & Neuroscience student at UNSW 🤓 Find me curating my spotify playlists, trying new restaurants or nose deep in a book  
 
+> 🔭 I’m currently working on:
+-  designing and coding my personal website
+-  innovating a book logging app
 
-## Skills 📝
+**See you around 👋**
+
 <!--
+## Skills 📝
+html 
 **amborgw/amborgw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
