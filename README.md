@@ -4,7 +4,6 @@ I'm Amber, a 3rd Year Computer Science & Neuroscience student at UNSW 🤓 Find 
 
 > 🔭 I’m currently working on:
 > -  designing and coding my personal website
-> -  innovating a book logging app
 
 **See you around 👋**
 
