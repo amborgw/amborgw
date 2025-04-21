@@ -1,6 +1,6 @@
 ## Greetings 👩‍🌾
 
-I'm Amber, a 3rd Year Computer Science & Neuroscience student at UNSW 🤓 Find me curating my spotify playlists, trying new restaurants or nose deep in a book  
+I'm Amber, a 4th Year Computer Science & Neuroscience student at UNSW 🤓 Find me curating my spotify playlists, trying new restaurants or nose deep in a book  
 
 > 🔭 I’m currently working on:
 > -  designing and coding my personal website
